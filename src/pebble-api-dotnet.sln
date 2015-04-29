@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pebble-api-dotnet", "pebble-api-dotnet\pebble-api-dotnet.csproj", "{34045785-386D-4D51-A6EE-CC679CBF40E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pebble-api-dotnet-tests", "pebble-api-dotnet-tests\pebble-api-dotnet-tests.csproj", "{74BC7653-900C-40F9-9FBC-B9CEFDEB53C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34045785-386D-4D51-A6EE-CC679CBF40E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34045785-386D-4D51-A6EE-CC679CBF40E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34045785-386D-4D51-A6EE-CC679CBF40E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34045785-386D-4D51-A6EE-CC679CBF40E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BC7653-900C-40F9-9FBC-B9CEFDEB53C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BC7653-900C-40F9-9FBC-B9CEFDEB53C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BC7653-900C-40F9-9FBC-B9CEFDEB53C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BC7653-900C-40F9-9FBC-B9CEFDEB53C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
